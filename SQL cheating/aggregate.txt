@@ -1,0 +1,9 @@
+ aggregate : 
+
+aggregate function tthey take all the data possible to create one single value 
+basically you have a column of salaries : 500 , 1000 , 50 and with that column you produ e one value for exemple : 1550
+
+scalar NON ZGGREGATE: they operate on record independently 
+basically this seems it doesn't produce one output but multiple output which means you would need two columns of salary 
+for exemple 500 , 1000 , 50 and the seocnd column : 5000 , 345 which will produce 2 output 1  550 and 5345
+
